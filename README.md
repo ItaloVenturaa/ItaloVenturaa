@@ -4,6 +4,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italopereiraventura/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ventura_italo/)
 
+[![oscard0m's GitHub stats](https://github-readme-stats.vercel.app/api?username=oscard0m&count_private=true&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+
+[![oscard0m's GitHub top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscard0m&langs_count=8&layout=compact&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloVenturaa&show_icons=true&theme=github_dark)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloVenturaa&theme=github_dark)
