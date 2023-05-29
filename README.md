@@ -8,10 +8,6 @@
 
 [![ItaloVenturaa's GitHub top programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloVenturaa&langs_count=8&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItaloVenturaa&show_icons=true&theme=github_dark)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloVenturaa&theme=github_dark)
-
 ## Tecnologias que eu uso no meu dia
 
 <div style="diaplay: inlie_block"><br/>
